@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Card thing</string>
+    <string name="pay">Pay</string>
+    <string name="price">price:</string>
+    <string name="price1">price:</string>
+    <string name="_4002">400$</string>
+</resources>
